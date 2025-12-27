@@ -18,10 +18,6 @@ The full design and all diagrams are available in the PDF file linked for downlo
 **Arch 1**
 ![Arch 1](./Arch%201.jpg)  
  
-
-![Arch 2](./Arch%202.jpeg)  
-**Arch 2** 
-
 ---
 
 
