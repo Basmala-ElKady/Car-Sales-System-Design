@@ -40,7 +40,7 @@ The full design and all diagrams are available in the PDF file linked for downlo
 
 Download the full design document (PDF) with all diagrams and explanations here:  
 
-[**Car-Sales System Full PDF**](./Car-Sales%20System.pdf)
+[**Car-Sales System Full PDF**](https://github.com/Basmala-ElKady/Car-Sales-System-Design/blob/main/Car-Sales%20System.pdf)
 
 
 ---
