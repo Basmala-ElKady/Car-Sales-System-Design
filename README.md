@@ -22,9 +22,12 @@ The full design and all diagrams are available in the PDF file linked for downlo
 
 
 ### Logic & Processes
+  
 
-**Mange_Feedback seq**
 ![Mange_Feedback seq](./Mange_Feedback%20seq.jpg)  
+**Mange_Feedback seq**
+
+
 
 **Profile_Management_DFD** 
 ![Profile_Management_DFD](./Profile_Management_DFD.jpeg)  
